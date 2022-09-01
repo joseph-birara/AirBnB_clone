@@ -1,7 +1,7 @@
 # AirBnB Clone - The console
 
 
-![AirBnB](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220901%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220901T181606Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=85cb0c5646063e9805ac8405f06dde1b01d45f11eec65496cdb3a3557777ff10)
+![AirBnB](https://commons.wikimedia.org/wiki/File:Airbnb_Logo_B%C3%A9lo.svg)
 
 the console for airbnb project. Create a command interpreter that can modify or delete the database
 The users like the administrator of the app Airbnb clone has the posibility of the manipulate objects and data of the application, this objects are:
@@ -22,7 +22,7 @@ The users like the administrator of the app Airbnb clone has the posibility of t
     * datetime
     * unittest module
     * args/kwargs
-    * python test cheeatsheet]
+    * python test cheeatsheet
 
 ## Requirements
 
