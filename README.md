@@ -16,13 +16,13 @@ The users like the administrator of the app Airbnb clone has the posibility of t
 
 ![alt text](https://i.ibb.co/RSzZ5yh/815046647d23428a14ca.png)
 
-## Resources
-    *[cmd module](https://alx-intranet.hbtn.io/rltoken/8ecCwE6veBmm3Nppw4hz5A)
-    *[uuid module](https://alx-intranet.hbtn.io/rltoken/KfL9TqwdI69W6ttG6gTPPQ)
-    *[datetime](https://alx-intranet.hbtn.io/rltoken/1d8I3jSKgnYAtA1IZfEDpA)
-    *[unittest module](https://alx-intranet.hbtn.io/rltoken/IlFiMB8UmqBG2CxA0AD3jA)
-    *[args/kwargs](https://alx-intranet.hbtn.io/rltoken/C_a0EKbtvKdMcwIAuSIZng)
-    *[python test cheeatsheet](https://alx-intranet.hbtn.io/rltoken/C_a0EKbtvKdMcwIAuSIZng)
+## Resources and reference
+    * cmd module
+    * uuid module
+    * datetime
+    * unittest module
+    * args/kwargs
+    * python test cheeatsheet]
 
 ## Requirements
 
